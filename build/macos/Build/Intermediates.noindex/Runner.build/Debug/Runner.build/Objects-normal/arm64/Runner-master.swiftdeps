@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "8df7b2fa16dbb3b80d1705da5c9de88c0a40dda9f6cfa55751cf42b3a0826fc8"
+build_start_time: [1677296347, 572813987]
+build_end_time: [1677296355, 829986095]
+inputs:
+  "/Users/deepaksubramanian/Documents/Hackme/hackme/hackme/macos/Flutter/GeneratedPluginRegistrant.swift": [1677296329, 563917398]
+  "/Users/deepaksubramanian/Documents/Hackme/hackme/hackme/macos/Runner/AppDelegate.swift": [1669220893, 0]
+  "/Users/deepaksubramanian/Documents/Hackme/hackme/hackme/macos/Runner/MainFlutterWindow.swift": [1669220893, 0]
